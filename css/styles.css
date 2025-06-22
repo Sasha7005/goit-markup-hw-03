@@ -99,7 +99,7 @@ p {
 }
 .page-footer {
   background-color: #2e2f42;
-  padding-top: 100px;
+  padding: 100px 0;
 }
 h1 {
   font-weight: 700;
@@ -148,6 +148,7 @@ h1 {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  margin-bottom: 8px;
 }
 .features-items {
   font-size: 16px;
@@ -209,8 +210,6 @@ h1 {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
-  padding-top: 8px;
-  padding-bottom: 32px;
 }
 .page-footer-desc {
   font-size: 16px;
@@ -233,6 +232,7 @@ h1 {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
+  margin-bottom: 72px;
 }
 
 .features-list {
