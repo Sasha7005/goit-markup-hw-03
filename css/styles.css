@@ -15,6 +15,7 @@ a {
   max-width: 1158px;
   padding: 0 15px;
   margin: 0 auto;
+  width: 100%;
 }
 
 .page-header {
@@ -272,4 +273,12 @@ h1 {
 .features-conteiner {
   padding-top: 120px;
   padding-bottom: 120px;
+}
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+.section {
+  padding: 188px 0;
 }
