@@ -233,7 +233,6 @@ h1 {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
-  padding-top: 32px;
 }
 
 .features-list {
@@ -248,14 +247,12 @@ h1 {
   display: flex;
   align-items: center;
   gap: 24px;
-  padding-bottom: 120px;
 }
 .portfolio-list {
   display: flex;
   align-items: center;
   gap: 24px;
   flex-wrap: wrap;
-  padding-bottom: 120px;
 }
 
 .title {
@@ -270,10 +267,7 @@ h1 {
 .container-title {
   padding: 188px 472px 292px 472px;
 }
-.features-conteiner {
-  padding-top: 120px;
-  padding-bottom: 120px;
-}
+
 img {
   display: block;
   max-width: 100%;
@@ -287,4 +281,7 @@ img {
   color: #ffffff;
   text-decoration: none;
   margin-bottom: 16px;
+}
+.page-features {
+  padding: 120px 0;
 }
