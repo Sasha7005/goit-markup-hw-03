@@ -11,7 +11,7 @@ ul {
 a {
   text-decoration: none;
 }
-.conteiner {
+.container {
   max-width: 1158px;
   padding: 0 15px;
   margin: 0 auto;
@@ -263,9 +263,6 @@ h1 {
 
 .features-title {
   padding-bottom: 8px;
-}
-.container-title {
-  padding: 188px 472px 292px 472px;
 }
 
 img {
