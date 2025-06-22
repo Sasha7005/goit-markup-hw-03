@@ -202,6 +202,7 @@ h1 {
   text-transform: capitalize;
   padding-top: 120px;
   padding-bottom: 72px;
+  margin-bottom: 72px;
 }
 
 .portfolio-info {
@@ -303,4 +304,8 @@ img {
   border: 1px solid #e7e9fc;
   border-top: none;
   margin-bottom: 8px;
+}
+.portfolio {
+  padding-top: 120px;
+  padding-bottom: 120px;
 }
