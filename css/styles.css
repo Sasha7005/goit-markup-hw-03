@@ -124,9 +124,15 @@ h1 {
   color: #ffffff;
   border-radius: 4px;
   padding: 16px 32px;
+}
+.btn {
+  display: block;
   margin-top: 48px;
   margin-right: 163px;
   margin-left: 164px;
+  min-width: 169px;
+  height: 56px;
+  border: none;
 }
 .btn:hover,
 .btn:focus {
@@ -254,6 +260,7 @@ h1 {
 .title {
   max-width: 496px;
   margin-bottom: 48px;
+  padding: 188px 0;
 }
 
 .features-title {
