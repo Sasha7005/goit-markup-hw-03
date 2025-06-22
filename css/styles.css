@@ -100,7 +100,6 @@ p {
 .page-footer {
   background-color: #2e2f42;
   padding-top: 100px;
-  padding-bottom: 100px;
 }
 h1 {
   font-weight: 700;
@@ -323,4 +322,5 @@ img {
 }
 .logo-footer {
   margin-bottom: 16px;
+  display: inline-block;
 }
